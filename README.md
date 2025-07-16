@@ -21,8 +21,8 @@ A modern, responsive sidebar dashboard built with React and Ant Design. Features
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/hassanbera/sidebar.git
-cd sidebar
+git clone https://github.com/hassanbera/sidebar-antdesign.git
+cd sidebar-antdesign
 ```
 
 2. Install dependencies:
